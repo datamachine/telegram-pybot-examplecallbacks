@@ -1,6 +1,6 @@
-import plugintypes
+from telegrambot import plugin
 
-class ExampleCallbacksPlugin(plugintypes.TelegramPlugin):
+class ExampleCallbacksPlugin(plugin.TelegramPlugin):
     """
     Example demonstrating how to use callbacks
     """
