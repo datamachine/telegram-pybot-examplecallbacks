@@ -3,7 +3,7 @@
     "description": "Just print the contents of the command",
     "version": "1.1",
     "default_enable": ["ExampleCallBacks"],
-    "homepage": "https://github.com/datamachine/telegram-pybot-examplecallbacks",
-    "repo": "https://github.com/datamachine/telegram-pybot-examplecallbacks.git",
+    "homepage": "https://github.com/datamachine/telex-examplecallbacks",
+    "repo": "https://github.com/datamachine/telex-examplecallbacks.git",
     "branch": "master"
 }
