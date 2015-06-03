@@ -1,6 +1,6 @@
-from telegrambot import plugin
+from telex import plugin
 
-class ExampleCallbacksPlugin(plugin.TelegramPlugin):
+class ExampleCallbacksPlugin(plugin.TelexPlugin):
     """
     Example demonstrating how to use callbacks
     """
